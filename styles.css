@@ -1,1 +1,12 @@
 /* Your CSS Here! */
+.image {
+  width: 150px;
+}
+
+section {
+  display: flex;
+}
+
+.item_caption {
+  flex: 1
+}
